@@ -8,7 +8,7 @@ declare(strict_types=1);
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>２都市間の時差・所要時間 計算 | flight-time-calculator</title>
+    <title>2都市間の時差・所要時間 計算 | flight-time-calculator</title>
     <meta name="description" content="2地点の現地日時から時差と所要時間を算出するWebサービス">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/tom-select/dist/css/tom-select.bootstrap5.min.css" rel="stylesheet">
@@ -20,9 +20,9 @@ declare(strict_types=1);
         <section class="page-hero mb-4">
             <div class="d-flex flex-column gap-2">
                 <span class="eyebrow">flight-time-calculator</span>
-                <h1 class="display-6 fw-semibold mb-0">２都市間の時差・所要時間 計算</h1>
+                <h1 class="display-6 fw-semibold mb-0">2都市間の時差・所要時間 計算</h1>
                 <p class="lead text-secondary mb-0">
-                    世界中の主要な飛行移動地点を対象に、２都市間の時差と所要時間を算出します。
+                    世界中の主要な飛行移動地点を対象に、2都市間の時差と所要時間を算出します。
                 </p>
             </div>
         </section>
