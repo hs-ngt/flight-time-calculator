@@ -17,4 +17,4 @@ AIフル活用しています。
 下記リンクにこのリポジトリの内容を公開しています。  
 良かったらご活用ください。
 
-- [hs-ngt.site/services/flight-time-calculator](hs-ngt.site/services/flight-time-calculator)
+- [https://hs-ngt.site/services/flight-time-calculator](https://hs-ngt.site/services/flight-time-calculator)
