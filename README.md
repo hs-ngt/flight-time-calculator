@@ -1,7 +1,8 @@
 # Flight Time Calculator
 
-PHP / JavaScript / HTML / CSS / Bootstrap で作った、2地点の現地日時から時差と所要時間を算出する最小実装です。  
-AIフル活用で作成しています。
+2地点の現地日時から時差と所要時間を算出するツールです。  
+PHP / JavaScript / HTML / CSS / Bootstrap で作成。  
+AIフル活用しています。  
 
 ## できること
 - 出発地点 / 到着地点を検索付きで選択
