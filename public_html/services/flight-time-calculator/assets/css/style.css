@@ -1,0 +1,260 @@
+:root {
+  --app-bg: #f5f7fb;
+  --card-border: rgba(15, 23, 42, 0.06);
+  --text-subtle: #64748b;
+  --tile-bg: #f8fafc;
+  --accent-soft: rgba(13, 110, 253, 0.08);
+}
+
+body.app-body {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top left, rgba(13, 110, 253, 0.08), transparent 28%),
+    linear-gradient(180deg, #ffffff 0%, var(--app-bg) 100%);
+  color: #0f172a;
+}
+
+.container {
+  max-width: 1180px;
+}
+
+.eyebrow,
+.section-kicker {
+  color: #0d6efd;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.page-hero {
+  max-width: 860px;
+}
+
+.location-panel {
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.swap-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  height: 100%;
+  justify-content: center;
+}
+
+.swap-button {
+  inline-size: 3.5rem;
+  block-size: 3.5rem;
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+
+.swap-help {
+  font-size: 0.875rem;
+}
+
+.meta-card {
+  min-height: 92px;
+  padding: 0.9rem 1rem;
+  background: var(--tile-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 1rem;
+}
+
+.meta-card__empty {
+  color: var(--text-subtle);
+  font-size: 0.92rem;
+}
+
+.meta-card__grid {
+  display: grid;
+  gap: 0.35rem;
+}
+
+.meta-card__row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.meta-card__label {
+  min-width: 92px;
+  color: var(--text-subtle);
+}
+
+.result-card {
+  border: 1px solid var(--card-border);
+}
+
+.result-empty {
+  min-height: 128px;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  color: var(--text-subtle);
+  background: var(--tile-bg);
+  border-radius: 1rem;
+}
+
+.summary-tile {
+  padding: 1.2rem;
+  border-radius: 1rem;
+  background: var(--tile-bg);
+  border: 1px solid var(--card-border);
+}
+
+.summary-tile__label {
+  color: var(--text-subtle);
+  font-size: 0.95rem;
+  margin-bottom: 0.4rem;
+}
+
+.summary-tile__value {
+  font-size: clamp(1.6rem, 2.2vw, 2.2rem);
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.detail-block {
+  padding: 1rem;
+  border: 1px solid var(--card-border);
+  border-radius: 1rem;
+  background: white;
+}
+
+.detail-list {
+  display: grid;
+  gap: 0.6rem;
+}
+
+.detail-list div {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 0.75rem;
+}
+
+.detail-list dt {
+  color: var(--text-subtle);
+  font-weight: 500;
+  margin: 0;
+}
+
+.detail-list dd {
+  margin: 0;
+  font-weight: 500;
+  word-break: break-word;
+}
+
+.result-foot {
+  padding: 1rem 1.2rem;
+  border-radius: 1rem;
+  background: var(--accent-soft);
+}
+
+.stack-list {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.saved-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--card-border);
+  border-radius: 1rem;
+  background: white;
+}
+
+.saved-item__meta {
+  min-width: 0;
+}
+
+.saved-item__title {
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.saved-item__sub {
+  color: var(--text-subtle);
+  font-size: 0.875rem;
+  margin-top: 0.25rem;
+}
+
+.saved-item__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: flex-end;
+}
+
+.ts-wrapper.single .ts-control {
+  min-height: calc(1.5em + 0.75rem + 2px);
+  padding: 0.375rem 0.75rem;
+  border-radius: 0.75rem;
+  border-color: rgba(15, 23, 42, 0.12);
+  box-shadow: none;
+  background: #fff;
+}
+
+.ts-wrapper.single .ts-control input {
+  font-size: 1rem;
+}
+
+.ts-wrapper.focus .ts-control {
+  border-color: #86b7fe;
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.15);
+}
+
+.ts-wrapper.single .ts-control,
+.ts-dropdown {
+  border-color: rgba(15, 23, 42, 0.12);
+}
+
+.ts-dropdown {
+  margin-top: 0.35rem;
+  padding: 0.35rem;
+  border-radius: 1rem;
+  border-color: rgba(15, 23, 42, 0.1);
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.08);
+}
+
+.ts-dropdown .option {
+  padding: 0.75rem 0.8rem;
+  border-radius: 0.85rem;
+}
+
+.ts-dropdown .active {
+  background: var(--tile-bg);
+  color: inherit;
+}
+
+.ts-city-option__title {
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.ts-city-option__sub {
+  margin-top: 0.2rem;
+  color: var(--text-subtle);
+  font-size: 0.875rem;
+}
+
+.ts-city-item {
+  line-height: 1.2;
+}
+
+@media (max-width: 991.98px) {
+  .swap-wrap {
+    flex-direction: row;
+  }
+
+  .detail-list div {
+    grid-template-columns: 1fr;
+    gap: 0.2rem;
+  }
+}

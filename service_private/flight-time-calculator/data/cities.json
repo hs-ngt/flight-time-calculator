@@ -1,0 +1,1337 @@
+[
+  {
+    "id": "tokyo",
+    "label_ja": "東京",
+    "label_en": "Tokyo",
+    "country_code": "JP",
+    "country_name_ja": "日本",
+    "country_name_en": "Japan",
+    "timezone_id": "Asia/Tokyo",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "aliases": [
+      "東京",
+      "Tokyo",
+      "TYO",
+      "HND",
+      "NRT"
+    ],
+    "sort_weight": 100
+  },
+  {
+    "id": "osaka",
+    "label_ja": "大阪",
+    "label_en": "Osaka",
+    "country_code": "JP",
+    "country_name_ja": "日本",
+    "country_name_en": "Japan",
+    "timezone_id": "Asia/Tokyo",
+    "lat": 34.6937,
+    "lng": 135.5023,
+    "aliases": [
+      "大阪",
+      "Osaka",
+      "KIX",
+      "ITM"
+    ],
+    "sort_weight": 90
+  },
+  {
+    "id": "sapporo",
+    "label_ja": "札幌",
+    "label_en": "Sapporo",
+    "country_code": "JP",
+    "country_name_ja": "日本",
+    "country_name_en": "Japan",
+    "timezone_id": "Asia/Tokyo",
+    "lat": 43.0618,
+    "lng": 141.3545,
+    "aliases": [
+      "札幌",
+      "Sapporo",
+      "CTS"
+    ],
+    "sort_weight": 70
+  },
+  {
+    "id": "fukuoka",
+    "label_ja": "福岡",
+    "label_en": "Fukuoka",
+    "country_code": "JP",
+    "country_name_ja": "日本",
+    "country_name_en": "Japan",
+    "timezone_id": "Asia/Tokyo",
+    "lat": 33.5902,
+    "lng": 130.4017,
+    "aliases": [
+      "福岡",
+      "Fukuoka",
+      "FUK",
+      "博多"
+    ],
+    "sort_weight": 75
+  },
+  {
+    "id": "seoul",
+    "label_ja": "ソウル",
+    "label_en": "Seoul",
+    "country_code": "KR",
+    "country_name_ja": "韓国",
+    "country_name_en": "South Korea",
+    "timezone_id": "Asia/Seoul",
+    "lat": 37.5665,
+    "lng": 126.978,
+    "aliases": [
+      "ソウル",
+      "Seoul",
+      "SEL",
+      "ICN",
+      "GMP"
+    ],
+    "sort_weight": 95
+  },
+  {
+    "id": "busan",
+    "label_ja": "釜山",
+    "label_en": "Busan",
+    "country_code": "KR",
+    "country_name_ja": "韓国",
+    "country_name_en": "South Korea",
+    "timezone_id": "Asia/Seoul",
+    "lat": 35.1796,
+    "lng": 129.0756,
+    "aliases": [
+      "釜山",
+      "Busan",
+      "PUS"
+    ],
+    "sort_weight": 55
+  },
+  {
+    "id": "beijing",
+    "label_ja": "北京",
+    "label_en": "Beijing",
+    "country_code": "CN",
+    "country_name_ja": "中国",
+    "country_name_en": "China",
+    "timezone_id": "Asia/Shanghai",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "aliases": [
+      "北京",
+      "Beijing",
+      "BJS",
+      "PEK",
+      "PKX"
+    ],
+    "sort_weight": 90
+  },
+  {
+    "id": "shanghai",
+    "label_ja": "上海",
+    "label_en": "Shanghai",
+    "country_code": "CN",
+    "country_name_ja": "中国",
+    "country_name_en": "China",
+    "timezone_id": "Asia/Shanghai",
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "aliases": [
+      "上海",
+      "Shanghai",
+      "SHA",
+      "PVG"
+    ],
+    "sort_weight": 95
+  },
+  {
+    "id": "guangzhou",
+    "label_ja": "広州",
+    "label_en": "Guangzhou",
+    "country_code": "CN",
+    "country_name_ja": "中国",
+    "country_name_en": "China",
+    "timezone_id": "Asia/Shanghai",
+    "lat": 23.1291,
+    "lng": 113.2644,
+    "aliases": [
+      "広州",
+      "Guangzhou",
+      "CAN"
+    ],
+    "sort_weight": 70
+  },
+  {
+    "id": "hong-kong",
+    "label_ja": "香港",
+    "label_en": "Hong Kong",
+    "country_code": "HK",
+    "country_name_ja": "香港",
+    "country_name_en": "Hong Kong",
+    "timezone_id": "Asia/Hong_Kong",
+    "lat": 22.3193,
+    "lng": 114.1694,
+    "aliases": [
+      "香港",
+      "Hong Kong",
+      "HKG"
+    ],
+    "sort_weight": 98
+  },
+  {
+    "id": "taipei",
+    "label_ja": "台北",
+    "label_en": "Taipei",
+    "country_code": "TW",
+    "country_name_ja": "台湾",
+    "country_name_en": "Taiwan",
+    "timezone_id": "Asia/Taipei",
+    "lat": 25.033,
+    "lng": 121.5654,
+    "aliases": [
+      "台北",
+      "Taipei",
+      "TPE",
+      "TSA"
+    ],
+    "sort_weight": 85
+  },
+  {
+    "id": "singapore",
+    "label_ja": "シンガポール",
+    "label_en": "Singapore",
+    "country_code": "SG",
+    "country_name_ja": "シンガポール",
+    "country_name_en": "Singapore",
+    "timezone_id": "Asia/Singapore",
+    "lat": 1.3521,
+    "lng": 103.8198,
+    "aliases": [
+      "シンガポール",
+      "Singapore",
+      "SIN"
+    ],
+    "sort_weight": 99
+  },
+  {
+    "id": "bangkok",
+    "label_ja": "バンコク",
+    "label_en": "Bangkok",
+    "country_code": "TH",
+    "country_name_ja": "タイ",
+    "country_name_en": "Thailand",
+    "timezone_id": "Asia/Bangkok",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "aliases": [
+      "バンコク",
+      "Bangkok",
+      "BKK",
+      "DMK"
+    ],
+    "sort_weight": 85
+  },
+  {
+    "id": "kuala-lumpur",
+    "label_ja": "クアラルンプール",
+    "label_en": "Kuala Lumpur",
+    "country_code": "MY",
+    "country_name_ja": "マレーシア",
+    "country_name_en": "Malaysia",
+    "timezone_id": "Asia/Kuala_Lumpur",
+    "lat": 3.139,
+    "lng": 101.6869,
+    "aliases": [
+      "クアラルンプール",
+      "Kuala Lumpur",
+      "KUL"
+    ],
+    "sort_weight": 70
+  },
+  {
+    "id": "jakarta",
+    "label_ja": "ジャカルタ",
+    "label_en": "Jakarta",
+    "country_code": "ID",
+    "country_name_ja": "インドネシア",
+    "country_name_en": "Indonesia",
+    "timezone_id": "Asia/Jakarta",
+    "lat": -6.2088,
+    "lng": 106.8456,
+    "aliases": [
+      "ジャカルタ",
+      "Jakarta",
+      "CGK"
+    ],
+    "sort_weight": 72
+  },
+  {
+    "id": "manila",
+    "label_ja": "マニラ",
+    "label_en": "Manila",
+    "country_code": "PH",
+    "country_name_ja": "フィリピン",
+    "country_name_en": "Philippines",
+    "timezone_id": "Asia/Manila",
+    "lat": 14.5995,
+    "lng": 120.9842,
+    "aliases": [
+      "マニラ",
+      "Manila",
+      "MNL"
+    ],
+    "sort_weight": 68
+  },
+  {
+    "id": "ho-chi-minh-city",
+    "label_ja": "ホーチミン",
+    "label_en": "Ho Chi Minh City",
+    "country_code": "VN",
+    "country_name_ja": "ベトナム",
+    "country_name_en": "Vietnam",
+    "timezone_id": "Asia/Ho_Chi_Minh",
+    "lat": 10.8231,
+    "lng": 106.6297,
+    "aliases": [
+      "ホーチミン",
+      "Ho Chi Minh City",
+      "SGN"
+    ],
+    "sort_weight": 62
+  },
+  {
+    "id": "hanoi",
+    "label_ja": "ハノイ",
+    "label_en": "Hanoi",
+    "country_code": "VN",
+    "country_name_ja": "ベトナム",
+    "country_name_en": "Vietnam",
+    "timezone_id": "Asia/Bangkok",
+    "lat": 21.0278,
+    "lng": 105.8342,
+    "aliases": [
+      "ハノイ",
+      "Hanoi",
+      "HAN"
+    ],
+    "sort_weight": 58
+  },
+  {
+    "id": "delhi",
+    "label_ja": "デリー",
+    "label_en": "Delhi",
+    "country_code": "IN",
+    "country_name_ja": "インド",
+    "country_name_en": "India",
+    "timezone_id": "Asia/Kolkata",
+    "lat": 28.6139,
+    "lng": 77.209,
+    "aliases": [
+      "デリー",
+      "Delhi",
+      "DEL",
+      "New Delhi"
+    ],
+    "sort_weight": 80
+  },
+  {
+    "id": "mumbai",
+    "label_ja": "ムンバイ",
+    "label_en": "Mumbai",
+    "country_code": "IN",
+    "country_name_ja": "インド",
+    "country_name_en": "India",
+    "timezone_id": "Asia/Kolkata",
+    "lat": 19.076,
+    "lng": 72.8777,
+    "aliases": [
+      "ムンバイ",
+      "Mumbai",
+      "BOM"
+    ],
+    "sort_weight": 72
+  },
+  {
+    "id": "dubai",
+    "label_ja": "ドバイ",
+    "label_en": "Dubai",
+    "country_code": "AE",
+    "country_name_ja": "アラブ首長国連邦",
+    "country_name_en": "United Arab Emirates",
+    "timezone_id": "Asia/Dubai",
+    "lat": 25.2048,
+    "lng": 55.2708,
+    "aliases": [
+      "ドバイ",
+      "Dubai",
+      "DXB"
+    ],
+    "sort_weight": 97
+  },
+  {
+    "id": "abu-dhabi",
+    "label_ja": "アブダビ",
+    "label_en": "Abu Dhabi",
+    "country_code": "AE",
+    "country_name_ja": "アラブ首長国連邦",
+    "country_name_en": "United Arab Emirates",
+    "timezone_id": "Asia/Dubai",
+    "lat": 24.4539,
+    "lng": 54.3773,
+    "aliases": [
+      "アブダビ",
+      "Abu Dhabi",
+      "AUH"
+    ],
+    "sort_weight": 65
+  },
+  {
+    "id": "doha",
+    "label_ja": "ドーハ",
+    "label_en": "Doha",
+    "country_code": "QA",
+    "country_name_ja": "カタール",
+    "country_name_en": "Qatar",
+    "timezone_id": "Asia/Qatar",
+    "lat": 25.2854,
+    "lng": 51.531,
+    "aliases": [
+      "ドーハ",
+      "Doha",
+      "DOH"
+    ],
+    "sort_weight": 82
+  },
+  {
+    "id": "istanbul",
+    "label_ja": "イスタンブール",
+    "label_en": "Istanbul",
+    "country_code": "TR",
+    "country_name_ja": "トルコ",
+    "country_name_en": "Turkey",
+    "timezone_id": "Europe/Istanbul",
+    "lat": 41.0082,
+    "lng": 28.9784,
+    "aliases": [
+      "イスタンブール",
+      "Istanbul",
+      "IST",
+      "SAW"
+    ],
+    "sort_weight": 80
+  },
+  {
+    "id": "riyadh",
+    "label_ja": "リヤド",
+    "label_en": "Riyadh",
+    "country_code": "SA",
+    "country_name_ja": "サウジアラビア",
+    "country_name_en": "Saudi Arabia",
+    "timezone_id": "Asia/Riyadh",
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "aliases": [
+      "リヤド",
+      "Riyadh",
+      "RUH"
+    ],
+    "sort_weight": 60
+  },
+  {
+    "id": "jeddah",
+    "label_ja": "ジェッダ",
+    "label_en": "Jeddah",
+    "country_code": "SA",
+    "country_name_ja": "サウジアラビア",
+    "country_name_en": "Saudi Arabia",
+    "timezone_id": "Asia/Riyadh",
+    "lat": 21.4858,
+    "lng": 39.1925,
+    "aliases": [
+      "ジェッダ",
+      "Jeddah",
+      "JED"
+    ],
+    "sort_weight": 55
+  },
+  {
+    "id": "london",
+    "label_ja": "ロンドン",
+    "label_en": "London",
+    "country_code": "GB",
+    "country_name_ja": "イギリス",
+    "country_name_en": "United Kingdom",
+    "timezone_id": "Europe/London",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "aliases": [
+      "ロンドン",
+      "London",
+      "LON",
+      "LHR",
+      "LGW"
+    ],
+    "sort_weight": 99
+  },
+  {
+    "id": "paris",
+    "label_ja": "パリ",
+    "label_en": "Paris",
+    "country_code": "FR",
+    "country_name_ja": "フランス",
+    "country_name_en": "France",
+    "timezone_id": "Europe/Paris",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "aliases": [
+      "パリ",
+      "Paris",
+      "PAR",
+      "CDG",
+      "ORY"
+    ],
+    "sort_weight": 95
+  },
+  {
+    "id": "amsterdam",
+    "label_ja": "アムステルダム",
+    "label_en": "Amsterdam",
+    "country_code": "NL",
+    "country_name_ja": "オランダ",
+    "country_name_en": "Netherlands",
+    "timezone_id": "Europe/Amsterdam",
+    "lat": 52.3676,
+    "lng": 4.9041,
+    "aliases": [
+      "アムステルダム",
+      "Amsterdam",
+      "AMS"
+    ],
+    "sort_weight": 76
+  },
+  {
+    "id": "frankfurt",
+    "label_ja": "フランクフルト",
+    "label_en": "Frankfurt",
+    "country_code": "DE",
+    "country_name_ja": "ドイツ",
+    "country_name_en": "Germany",
+    "timezone_id": "Europe/Berlin",
+    "lat": 50.1109,
+    "lng": 8.6821,
+    "aliases": [
+      "フランクフルト",
+      "Frankfurt",
+      "FRA"
+    ],
+    "sort_weight": 83
+  },
+  {
+    "id": "munich",
+    "label_ja": "ミュンヘン",
+    "label_en": "Munich",
+    "country_code": "DE",
+    "country_name_ja": "ドイツ",
+    "country_name_en": "Germany",
+    "timezone_id": "Europe/Berlin",
+    "lat": 48.1351,
+    "lng": 11.582,
+    "aliases": [
+      "ミュンヘン",
+      "Munich",
+      "MUC"
+    ],
+    "sort_weight": 62
+  },
+  {
+    "id": "zurich",
+    "label_ja": "チューリッヒ",
+    "label_en": "Zurich",
+    "country_code": "CH",
+    "country_name_ja": "スイス",
+    "country_name_en": "Switzerland",
+    "timezone_id": "Europe/Zurich",
+    "lat": 47.3769,
+    "lng": 8.5417,
+    "aliases": [
+      "チューリッヒ",
+      "Zurich",
+      "ZRH"
+    ],
+    "sort_weight": 67
+  },
+  {
+    "id": "madrid",
+    "label_ja": "マドリード",
+    "label_en": "Madrid",
+    "country_code": "ES",
+    "country_name_ja": "スペイン",
+    "country_name_en": "Spain",
+    "timezone_id": "Europe/Madrid",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "aliases": [
+      "マドリード",
+      "Madrid",
+      "MAD"
+    ],
+    "sort_weight": 73
+  },
+  {
+    "id": "barcelona",
+    "label_ja": "バルセロナ",
+    "label_en": "Barcelona",
+    "country_code": "ES",
+    "country_name_ja": "スペイン",
+    "country_name_en": "Spain",
+    "timezone_id": "Europe/Madrid",
+    "lat": 41.3874,
+    "lng": 2.1686,
+    "aliases": [
+      "バルセロナ",
+      "Barcelona",
+      "BCN"
+    ],
+    "sort_weight": 68
+  },
+  {
+    "id": "rome",
+    "label_ja": "ローマ",
+    "label_en": "Rome",
+    "country_code": "IT",
+    "country_name_ja": "イタリア",
+    "country_name_en": "Italy",
+    "timezone_id": "Europe/Rome",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "aliases": [
+      "ローマ",
+      "Rome",
+      "ROM",
+      "FCO"
+    ],
+    "sort_weight": 74
+  },
+  {
+    "id": "milan",
+    "label_ja": "ミラノ",
+    "label_en": "Milan",
+    "country_code": "IT",
+    "country_name_ja": "イタリア",
+    "country_name_en": "Italy",
+    "timezone_id": "Europe/Rome",
+    "lat": 45.4642,
+    "lng": 9.19,
+    "aliases": [
+      "ミラノ",
+      "Milan",
+      "MIL",
+      "MXP"
+    ],
+    "sort_weight": 60
+  },
+  {
+    "id": "vienna",
+    "label_ja": "ウィーン",
+    "label_en": "Vienna",
+    "country_code": "AT",
+    "country_name_ja": "オーストリア",
+    "country_name_en": "Austria",
+    "timezone_id": "Europe/Vienna",
+    "lat": 48.2082,
+    "lng": 16.3738,
+    "aliases": [
+      "ウィーン",
+      "Vienna",
+      "VIE"
+    ],
+    "sort_weight": 58
+  },
+  {
+    "id": "copenhagen",
+    "label_ja": "コペンハーゲン",
+    "label_en": "Copenhagen",
+    "country_code": "DK",
+    "country_name_ja": "デンマーク",
+    "country_name_en": "Denmark",
+    "timezone_id": "Europe/Copenhagen",
+    "lat": 55.6761,
+    "lng": 12.5683,
+    "aliases": [
+      "コペンハーゲン",
+      "Copenhagen",
+      "CPH"
+    ],
+    "sort_weight": 52
+  },
+  {
+    "id": "stockholm",
+    "label_ja": "ストックホルム",
+    "label_en": "Stockholm",
+    "country_code": "SE",
+    "country_name_ja": "スウェーデン",
+    "country_name_en": "Sweden",
+    "timezone_id": "Europe/Stockholm",
+    "lat": 59.3293,
+    "lng": 18.0686,
+    "aliases": [
+      "ストックホルム",
+      "Stockholm",
+      "ARN"
+    ],
+    "sort_weight": 52
+  },
+  {
+    "id": "helsinki",
+    "label_ja": "ヘルシンキ",
+    "label_en": "Helsinki",
+    "country_code": "FI",
+    "country_name_ja": "フィンランド",
+    "country_name_en": "Finland",
+    "timezone_id": "Europe/Helsinki",
+    "lat": 60.1699,
+    "lng": 24.9384,
+    "aliases": [
+      "ヘルシンキ",
+      "Helsinki",
+      "HEL"
+    ],
+    "sort_weight": 54
+  },
+  {
+    "id": "warsaw",
+    "label_ja": "ワルシャワ",
+    "label_en": "Warsaw",
+    "country_code": "PL",
+    "country_name_ja": "ポーランド",
+    "country_name_en": "Poland",
+    "timezone_id": "Europe/Warsaw",
+    "lat": 52.2297,
+    "lng": 21.0122,
+    "aliases": [
+      "ワルシャワ",
+      "Warsaw",
+      "WAW"
+    ],
+    "sort_weight": 50
+  },
+  {
+    "id": "lisbon",
+    "label_ja": "リスボン",
+    "label_en": "Lisbon",
+    "country_code": "PT",
+    "country_name_ja": "ポルトガル",
+    "country_name_en": "Portugal",
+    "timezone_id": "Europe/Lisbon",
+    "lat": 38.7223,
+    "lng": -9.1393,
+    "aliases": [
+      "リスボン",
+      "Lisbon",
+      "LIS"
+    ],
+    "sort_weight": 51
+  },
+  {
+    "id": "athens",
+    "label_ja": "アテネ",
+    "label_en": "Athens",
+    "country_code": "GR",
+    "country_name_ja": "ギリシャ",
+    "country_name_en": "Greece",
+    "timezone_id": "Europe/Athens",
+    "lat": 37.9838,
+    "lng": 23.7275,
+    "aliases": [
+      "アテネ",
+      "Athens",
+      "ATH"
+    ],
+    "sort_weight": 50
+  },
+  {
+    "id": "moscow",
+    "label_ja": "モスクワ",
+    "label_en": "Moscow",
+    "country_code": "RU",
+    "country_name_ja": "ロシア",
+    "country_name_en": "Russia",
+    "timezone_id": "Europe/Moscow",
+    "lat": 55.7558,
+    "lng": 37.6173,
+    "aliases": [
+      "モスクワ",
+      "Moscow",
+      "MOW",
+      "SVO"
+    ],
+    "sort_weight": 63
+  },
+  {
+    "id": "new-york",
+    "label_ja": "ニューヨーク",
+    "label_en": "New York",
+    "country_code": "US",
+    "country_name_ja": "アメリカ",
+    "country_name_en": "United States",
+    "timezone_id": "America/New_York",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "aliases": [
+      "ニューヨーク",
+      "New York",
+      "NYC",
+      "JFK",
+      "EWR",
+      "LGA"
+    ],
+    "sort_weight": 100
+  },
+  {
+    "id": "boston",
+    "label_ja": "ボストン",
+    "label_en": "Boston",
+    "country_code": "US",
+    "country_name_ja": "アメリカ",
+    "country_name_en": "United States",
+    "timezone_id": "America/New_York",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "aliases": [
+      "ボストン",
+      "Boston",
+      "BOS"
+    ],
+    "sort_weight": 60
+  },
+  {
+    "id": "washington-dc",
+    "label_ja": "ワシントンD.C.",
+    "label_en": "Washington, D.C.",
+    "country_code": "US",
+    "country_name_ja": "アメリカ",
+    "country_name_en": "United States",
+    "timezone_id": "America/New_York",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "aliases": [
+      "ワシントン",
+      "Washington",
+      "IAD",
+      "DCA"
+    ],
+    "sort_weight": 68
+  },
+  {
+    "id": "miami",
+    "label_ja": "マイアミ",
+    "label_en": "Miami",
+    "country_code": "US",
+    "country_name_ja": "アメリカ",
+    "country_name_en": "United States",
+    "timezone_id": "America/New_York",
+    "lat": 25.7617,
+    "lng": -80.1918,
+    "aliases": [
+      "マイアミ",
+      "Miami",
+      "MIA"
+    ],
+    "sort_weight": 65
+  },
+  {
+    "id": "chicago",
+    "label_ja": "シカゴ",
+    "label_en": "Chicago",
+    "country_code": "US",
+    "country_name_ja": "アメリカ",
+    "country_name_en": "United States",
+    "timezone_id": "America/Chicago",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "aliases": [
+      "シカゴ",
+      "Chicago",
+      "CHI",
+      "ORD",
+      "MDW"
+    ],
+    "sort_weight": 82
+  },
+  {
+    "id": "dallas",
+    "label_ja": "ダラス",
+    "label_en": "Dallas",
+    "country_code": "US",
+    "country_name_ja": "アメリカ",
+    "country_name_en": "United States",
+    "timezone_id": "America/Chicago",
+    "lat": 32.7767,
+    "lng": -96.797,
+    "aliases": [
+      "ダラス",
+      "Dallas",
+      "DFW"
+    ],
+    "sort_weight": 64
+  },
+  {
+    "id": "denver",
+    "label_ja": "デンバー",
+    "label_en": "Denver",
+    "country_code": "US",
+    "country_name_ja": "アメリカ",
+    "country_name_en": "United States",
+    "timezone_id": "America/Denver",
+    "lat": 39.7392,
+    "lng": -104.9903,
+    "aliases": [
+      "デンバー",
+      "Denver",
+      "DEN"
+    ],
+    "sort_weight": 56
+  },
+  {
+    "id": "los-angeles",
+    "label_ja": "ロサンゼルス",
+    "label_en": "Los Angeles",
+    "country_code": "US",
+    "country_name_ja": "アメリカ",
+    "country_name_en": "United States",
+    "timezone_id": "America/Los_Angeles",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "aliases": [
+      "ロサンゼルス",
+      "Los Angeles",
+      "LAX"
+    ],
+    "sort_weight": 96
+  },
+  {
+    "id": "san-francisco",
+    "label_ja": "サンフランシスコ",
+    "label_en": "San Francisco",
+    "country_code": "US",
+    "country_name_ja": "アメリカ",
+    "country_name_en": "United States",
+    "timezone_id": "America/Los_Angeles",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "aliases": [
+      "サンフランシスコ",
+      "San Francisco",
+      "SFO"
+    ],
+    "sort_weight": 84
+  },
+  {
+    "id": "seattle",
+    "label_ja": "シアトル",
+    "label_en": "Seattle",
+    "country_code": "US",
+    "country_name_ja": "アメリカ",
+    "country_name_en": "United States",
+    "timezone_id": "America/Los_Angeles",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "aliases": [
+      "シアトル",
+      "Seattle",
+      "SEA"
+    ],
+    "sort_weight": 65
+  },
+  {
+    "id": "las-vegas",
+    "label_ja": "ラスベガス",
+    "label_en": "Las Vegas",
+    "country_code": "US",
+    "country_name_ja": "アメリカ",
+    "country_name_en": "United States",
+    "timezone_id": "America/Los_Angeles",
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "aliases": [
+      "ラスベガス",
+      "Las Vegas",
+      "LAS"
+    ],
+    "sort_weight": 58
+  },
+  {
+    "id": "honolulu",
+    "label_ja": "ホノルル",
+    "label_en": "Honolulu",
+    "country_code": "US",
+    "country_name_ja": "アメリカ",
+    "country_name_en": "United States",
+    "timezone_id": "Pacific/Honolulu",
+    "lat": 21.3069,
+    "lng": -157.8583,
+    "aliases": [
+      "ホノルル",
+      "Honolulu",
+      "HNL"
+    ],
+    "sort_weight": 78
+  },
+  {
+    "id": "vancouver",
+    "label_ja": "バンクーバー",
+    "label_en": "Vancouver",
+    "country_code": "CA",
+    "country_name_ja": "カナダ",
+    "country_name_en": "Canada",
+    "timezone_id": "America/Vancouver",
+    "lat": 49.2827,
+    "lng": -123.1207,
+    "aliases": [
+      "バンクーバー",
+      "Vancouver",
+      "YVR"
+    ],
+    "sort_weight": 66
+  },
+  {
+    "id": "toronto",
+    "label_ja": "トロント",
+    "label_en": "Toronto",
+    "country_code": "CA",
+    "country_name_ja": "カナダ",
+    "country_name_en": "Canada",
+    "timezone_id": "America/Toronto",
+    "lat": 43.6532,
+    "lng": -79.3832,
+    "aliases": [
+      "トロント",
+      "Toronto",
+      "YYZ"
+    ],
+    "sort_weight": 72
+  },
+  {
+    "id": "montreal",
+    "label_ja": "モントリオール",
+    "label_en": "Montreal",
+    "country_code": "CA",
+    "country_name_ja": "カナダ",
+    "country_name_en": "Canada",
+    "timezone_id": "America/Toronto",
+    "lat": 45.5017,
+    "lng": -73.5673,
+    "aliases": [
+      "モントリオール",
+      "Montreal",
+      "YUL"
+    ],
+    "sort_weight": 54
+  },
+  {
+    "id": "mexico-city",
+    "label_ja": "メキシコシティ",
+    "label_en": "Mexico City",
+    "country_code": "MX",
+    "country_name_ja": "メキシコ",
+    "country_name_en": "Mexico",
+    "timezone_id": "America/Mexico_City",
+    "lat": 19.4326,
+    "lng": -99.1332,
+    "aliases": [
+      "メキシコシティ",
+      "Mexico City",
+      "MEX"
+    ],
+    "sort_weight": 67
+  },
+  {
+    "id": "sao-paulo",
+    "label_ja": "サンパウロ",
+    "label_en": "Sao Paulo",
+    "country_code": "BR",
+    "country_name_ja": "ブラジル",
+    "country_name_en": "Brazil",
+    "timezone_id": "America/Sao_Paulo",
+    "lat": -23.5558,
+    "lng": -46.6396,
+    "aliases": [
+      "サンパウロ",
+      "Sao Paulo",
+      "GRU"
+    ],
+    "sort_weight": 73
+  },
+  {
+    "id": "rio-de-janeiro",
+    "label_ja": "リオデジャネイロ",
+    "label_en": "Rio de Janeiro",
+    "country_code": "BR",
+    "country_name_ja": "ブラジル",
+    "country_name_en": "Brazil",
+    "timezone_id": "America/Sao_Paulo",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "aliases": [
+      "リオデジャネイロ",
+      "Rio de Janeiro",
+      "GIG"
+    ],
+    "sort_weight": 58
+  },
+  {
+    "id": "buenos-aires",
+    "label_ja": "ブエノスアイレス",
+    "label_en": "Buenos Aires",
+    "country_code": "AR",
+    "country_name_ja": "アルゼンチン",
+    "country_name_en": "Argentina",
+    "timezone_id": "America/Argentina/Buenos_Aires",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "aliases": [
+      "ブエノスアイレス",
+      "Buenos Aires",
+      "EZE"
+    ],
+    "sort_weight": 60
+  },
+  {
+    "id": "santiago",
+    "label_ja": "サンティアゴ",
+    "label_en": "Santiago",
+    "country_code": "CL",
+    "country_name_ja": "チリ",
+    "country_name_en": "Chile",
+    "timezone_id": "America/Santiago",
+    "lat": -33.4489,
+    "lng": -70.6693,
+    "aliases": [
+      "サンティアゴ",
+      "Santiago",
+      "SCL"
+    ],
+    "sort_weight": 55
+  },
+  {
+    "id": "bogota",
+    "label_ja": "ボゴタ",
+    "label_en": "Bogota",
+    "country_code": "CO",
+    "country_name_ja": "コロンビア",
+    "country_name_en": "Colombia",
+    "timezone_id": "America/Bogota",
+    "lat": 4.711,
+    "lng": -74.0721,
+    "aliases": [
+      "ボゴタ",
+      "Bogota",
+      "BOG"
+    ],
+    "sort_weight": 50
+  },
+  {
+    "id": "lima",
+    "label_ja": "リマ",
+    "label_en": "Lima",
+    "country_code": "PE",
+    "country_name_ja": "ペルー",
+    "country_name_en": "Peru",
+    "timezone_id": "America/Lima",
+    "lat": -12.0464,
+    "lng": -77.0428,
+    "aliases": [
+      "リマ",
+      "Lima",
+      "LIM"
+    ],
+    "sort_weight": 50
+  },
+  {
+    "id": "johannesburg",
+    "label_ja": "ヨハネスブルグ",
+    "label_en": "Johannesburg",
+    "country_code": "ZA",
+    "country_name_ja": "南アフリカ",
+    "country_name_en": "South Africa",
+    "timezone_id": "Africa/Johannesburg",
+    "lat": -26.2041,
+    "lng": 28.0473,
+    "aliases": [
+      "ヨハネスブルグ",
+      "Johannesburg",
+      "JNB"
+    ],
+    "sort_weight": 63
+  },
+  {
+    "id": "cape-town",
+    "label_ja": "ケープタウン",
+    "label_en": "Cape Town",
+    "country_code": "ZA",
+    "country_name_ja": "南アフリカ",
+    "country_name_en": "South Africa",
+    "timezone_id": "Africa/Johannesburg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "aliases": [
+      "ケープタウン",
+      "Cape Town",
+      "CPT"
+    ],
+    "sort_weight": 51
+  },
+  {
+    "id": "cairo",
+    "label_ja": "カイロ",
+    "label_en": "Cairo",
+    "country_code": "EG",
+    "country_name_ja": "エジプト",
+    "country_name_en": "Egypt",
+    "timezone_id": "Africa/Cairo",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "aliases": [
+      "カイロ",
+      "Cairo",
+      "CAI"
+    ],
+    "sort_weight": 64
+  },
+  {
+    "id": "casablanca",
+    "label_ja": "カサブランカ",
+    "label_en": "Casablanca",
+    "country_code": "MA",
+    "country_name_ja": "モロッコ",
+    "country_name_en": "Morocco",
+    "timezone_id": "Africa/Casablanca",
+    "lat": 33.5731,
+    "lng": -7.5898,
+    "aliases": [
+      "カサブランカ",
+      "Casablanca",
+      "CMN"
+    ],
+    "sort_weight": 48
+  },
+  {
+    "id": "nairobi",
+    "label_ja": "ナイロビ",
+    "label_en": "Nairobi",
+    "country_code": "KE",
+    "country_name_ja": "ケニア",
+    "country_name_en": "Kenya",
+    "timezone_id": "Africa/Nairobi",
+    "lat": -1.2921,
+    "lng": 36.8219,
+    "aliases": [
+      "ナイロビ",
+      "Nairobi",
+      "NBO"
+    ],
+    "sort_weight": 47
+  },
+  {
+    "id": "sydney",
+    "label_ja": "シドニー",
+    "label_en": "Sydney",
+    "country_code": "AU",
+    "country_name_ja": "オーストラリア",
+    "country_name_en": "Australia",
+    "timezone_id": "Australia/Sydney",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "aliases": [
+      "シドニー",
+      "Sydney",
+      "SYD"
+    ],
+    "sort_weight": 92
+  },
+  {
+    "id": "melbourne",
+    "label_ja": "メルボルン",
+    "label_en": "Melbourne",
+    "country_code": "AU",
+    "country_name_ja": "オーストラリア",
+    "country_name_en": "Australia",
+    "timezone_id": "Australia/Melbourne",
+    "lat": -37.8136,
+    "lng": 144.9631,
+    "aliases": [
+      "メルボルン",
+      "Melbourne",
+      "MEL"
+    ],
+    "sort_weight": 74
+  },
+  {
+    "id": "brisbane",
+    "label_ja": "ブリスベン",
+    "label_en": "Brisbane",
+    "country_code": "AU",
+    "country_name_ja": "オーストラリア",
+    "country_name_en": "Australia",
+    "timezone_id": "Australia/Brisbane",
+    "lat": -27.4698,
+    "lng": 153.0251,
+    "aliases": [
+      "ブリスベン",
+      "Brisbane",
+      "BNE"
+    ],
+    "sort_weight": 60
+  },
+  {
+    "id": "perth",
+    "label_ja": "パース",
+    "label_en": "Perth",
+    "country_code": "AU",
+    "country_name_ja": "オーストラリア",
+    "country_name_en": "Australia",
+    "timezone_id": "Australia/Perth",
+    "lat": -31.9505,
+    "lng": 115.8605,
+    "aliases": [
+      "パース",
+      "Perth",
+      "PER"
+    ],
+    "sort_weight": 58
+  },
+  {
+    "id": "auckland",
+    "label_ja": "オークランド",
+    "label_en": "Auckland",
+    "country_code": "NZ",
+    "country_name_ja": "ニュージーランド",
+    "country_name_en": "New Zealand",
+    "timezone_id": "Pacific/Auckland",
+    "lat": -36.8509,
+    "lng": 174.7645,
+    "aliases": [
+      "オークランド",
+      "Auckland",
+      "AKL"
+    ],
+    "sort_weight": 66
+  },
+  {
+    "id": "wellington",
+    "label_ja": "ウェリントン",
+    "label_en": "Wellington",
+    "country_code": "NZ",
+    "country_name_ja": "ニュージーランド",
+    "country_name_en": "New Zealand",
+    "timezone_id": "Pacific/Auckland",
+    "lat": -41.2866,
+    "lng": 174.7756,
+    "aliases": [
+      "ウェリントン",
+      "Wellington",
+      "WLG"
+    ],
+    "sort_weight": 44
+  }
+]
